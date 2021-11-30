@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Q&amp;A</string>
+    <string name="app_name">QA</string>
+    <string name="registration">registration</string>
+    <string name="entry">entry</string>
 </resources>
