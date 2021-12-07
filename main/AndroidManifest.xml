@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.QA">
         <activity
+            android:name=".MyProfile"
+            android:exported="false" />
+        <activity
             android:name=".Entry"
             android:exported="false" />
         <activity
